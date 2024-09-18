@@ -8,7 +8,15 @@ Shift Baru	: D
 
 A.	SCREENSHOT
   
- 
+ ![PPM2 - Form Data](https://github.com/user-attachments/assets/5ed2fd3c-67c2-4818-a092-0072259a93af) 
+
+
+ ![PPM2 - Input](https://github.com/user-attachments/assets/5e1e52f1-c1f1-4778-8133-b2e79a37a11d)
+
+
+![PPM2 - Tampilan](https://github.com/user-attachments/assets/7f8ceb62-1409-4c10-8be2-631afba42a2e)
+
+
 B.	Proses Passing Data dari Form Menuju Tampilan 
 1.	Di halaman FormData, user menginputkan data di form yang berisikan Nama, NIM, dan Tahun Lahir.
 2.	Data yang sudah di-inputkan diterima TextField di setiap nama, nim, dan tahun. Di sini setiap TextField memiliki TextEditingController. Controller ini dugunakan untuk mengambil nilai input dari TextField.
